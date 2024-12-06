@@ -1,4 +1,4 @@
-<h1>Hey, my name is Travis, an <a >IT Professional</<h1> 😁
+<h1>Hey, my name is Travis, an <a >IT Professional</<h1>😁
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
