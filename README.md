@@ -10,7 +10,7 @@
   - [Setting up Active-Directory using Azure VMs](https://github.com/TravisBCC/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TravisBCC/azure-network-protocols)
 - <b>Virtual Private Network 
-  - [VPN Setup In Virtual Machine]([[https://github.com/TravisBCC/ticket-lifecycle](https://github.com/TravisBCC/VPN-Setup-in-Virtual-Machine](https://github.com/TravisBCC/VPN-Setup-in-Virtual-Machine.git)))
+  - [VPN Setup In Virtual Machine]([https://github.com/TravisBCC/VPN-Setup-in-Virtual-Machine.git))
 
 
 
