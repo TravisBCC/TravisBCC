@@ -3,6 +3,7 @@
 <h2>🖥️ Information Technology Projects 🖥️</h2>
 
 - <b>Azure Virtual Machines (How to connect to a Azure VM using remote desktop)</b>
+  - [Azure Virtual Machine: How to connect]([https://github.com/TravisBCC/How-to-connect-to-remote-desktop-using-a-Virtual-Machine))
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation](https://github.com/TravisBCC/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/TravisBCC/post-install-config)
